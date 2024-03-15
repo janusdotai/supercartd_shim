@@ -1,0 +1,29 @@
+{
+  "name": "scd-shim",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Supercartd Feeds",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janusdotai/supercartd_shim"
+  },
+  "bugs": "",
+  "homepage": "",
+  "author": "janusdotai",
+  "keywords": [
+    "icp",
+    "eth"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@netlify/functions": "^1.6.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.2"
+  }
+}
